@@ -70,7 +70,3 @@ export default defineComponent({...})  // ✅ CSS present
 - **vite:** 7.2.4
 - **vue:** 3.5.22
 - **Node:** v22
-
-## Related Issue
-
-[Link to GitHub issue]
